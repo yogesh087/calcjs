@@ -82,7 +82,7 @@ body{
 }
 
 .buttons #UP, .buttons #DOWN{
-    background-color:rgb(118, 223, 150);
+    background-color: skyblue;
     height:30px;
     width:2cm;
     margin:auto;
